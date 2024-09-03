@@ -19,11 +19,7 @@ Robust Data Security: Implemented measures to protect user data and transactions
 ![Front view](.gitbook/assets/4.png)
 
 
-## Admin Dashboard
 
-To access admin portal type this in your URL BAR **\`root**/admin/ \`  where **root** is your root directory
-
- **Admin credentials:** Username: **admin** Password: **1234**
 
 ## Technologies Used
 
