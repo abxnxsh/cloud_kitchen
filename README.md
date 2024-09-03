@@ -16,7 +16,7 @@ Robust Data Security: Implemented measures to protect user data and transactions
 ![Front view](.gitbook/assets/3.png)
 
 ![Backend view](.gitbook/assets/5.png)
-(.gitbook/assets/4.png)
+![Front view](.gitbook/assets/4.png)
 
 
 ## Admin Dashboard
