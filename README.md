@@ -6,13 +6,13 @@ The Home-Based Cloud Kitchen is a web platform designed to connect home-based ch
 
 ## Features
 
--- Chef and Food Enthusiast Profiles: Allow chefs to create and manage their profiles, and food enthusiasts to explore and follow their favorite chefs./n
--- Menu Management: Chefs can easily add, update, and delete menu items with detailed descriptions and pricing.
--- Order Processing: Food enthusiasts can browse menus, place orders, and track their order status in real-time.
--- Secure Transactions: Integration of secure payment gateways to handle transactions safely.
--- Real-Time Notifications: Notify users about order status updates and other relevant information.
--- User-Friendly Design: An intuitive interface designed for easy navigation and interaction.
--- Robust Data Security: Implemented measures to protect user data and transactions.
+Chef and Food Enthusiast Profiles: Allow chefs to create and manage their profiles, and food enthusiasts to explore and follow their favorite chefs  
+Menu Management: Chefs can easily add, update, and delete menu items with detailed descriptions and pricing.  
+Order Processing: Food enthusiasts can browse menus, place orders, and track their order status in real-time.  
+Secure Transactions: Integration of secure payment gateways to handle transactions safely.  
+Real-Time Notifications: Notify users about order status updates and other relevant information.  
+User-Friendly Design: An intuitive interface designed for easy navigation and interaction.  
+Robust Data Security: Implemented measures to protect user data and transactions.
 
 ![Front view](.gitbook/assets/1.png)
 
