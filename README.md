@@ -2,7 +2,17 @@
 
 ## About this project?
 
-This project is about ordering online food from your local restaurants. Anybody can create an account and order online. you are free to to use this project for college or school purposes. Please note that this project is not made for business or commercial purposes.
+The Home-Based Cloud Kitchen is a web platform designed to connect home-based chefs with food enthusiasts. This project facilitates a seamless culinary experience by offering features such as menu management, order processing, and secure transactions. With a focus on user-friendly design, real-time order tracking, and robust data security, this platform aims to foster a thriving online culinary community.
+
+## Features
+
+Chef and Food Enthusiast Profiles: Allow chefs to create and manage their profiles, and food enthusiasts to explore and follow their favorite chefs.
+Menu Management: Chefs can easily add, update, and delete menu items with detailed descriptions and pricing.
+Order Processing: Food enthusiasts can browse menus, place orders, and track their order status in real-time.
+Secure Transactions: Integration of secure payment gateways to handle transactions safely.
+Real-Time Notifications: Notify users about order status updates and other relevant information.
+User-Friendly Design: An intuitive interface designed for easy navigation and interaction.
+Robust Data Security: Implemented measures to protect user data and transactions.
 
 ![Front view](.gitbook/assets/1.png)
 
