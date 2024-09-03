@@ -25,9 +25,6 @@ To access admin portal type this in your URL BAR **\`root**/admin/ \`  where **r
 
 ## System Requirements
 
-Software : XAMPP / Wamp / Mamp/ Lamp \(anyone\).
+Software : XAMPP / Wamp / Mamp/ Lamp 
 
-## Want custom PHP project?
-
-If you looking for specific project for your school or college then follow me on intagram and message me there. [https://www.instagram.com/code\_lone/](https://www.instagram.com/code_lone/)
 
