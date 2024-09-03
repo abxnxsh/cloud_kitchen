@@ -13,9 +13,10 @@ Real-Time Notifications: Notify users about order status updates and other relev
 User-Friendly Design: An intuitive interface designed for easy navigation and interaction.  
 Robust Data Security: Implemented measures to protect user data and transactions.
 
-![Front view](.gitbook/assets/1.png)
+![Front view](.gitbook/assets/3.png)
 
-![Backend view](.gitbook/assets/2.png)
+![Backend view](.gitbook/assets/5.png)
+(.gitbook/assets/4.png)
 
 
 ## Admin Dashboard
